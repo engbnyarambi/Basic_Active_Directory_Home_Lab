@@ -1,11 +1,29 @@
 <h1>Basic Active Directory Home Lab</h1>
-<br>
+
 <h2>Description</h2>
 In this lab we are going to walk through how to create a basic Active Directory Home Lab environment step-by-step using Oracle VirtualBox. Configuring and running this lab will definitely help develop understanding of how Active Directory and Windows Networking works. 
 <br />
 
 <h2>Credits</h2>
-This project was heavily inspired by the comprehensive YouTube tutorial "How to Setup a Basic Home Lab Running Active Directory" by Josh Madakor ([https://www.youtube.com/watch?v=MHsI8hJmggI]). Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
+This project was heavily inspired by the comprehensive YouTube tutorial by Josh Madakor:  "How to Setup a Basic Home Lab Running Active Directory" ([https://www.youtube.com/watch?v=MHsI8hJmggI]). 
+Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
+[Link Text](https://www.example.com)
+
+For more information, visit the [GitHub documentation website](https://docs.github.com).
+This is an [example link][Arbitrary case-insensitive reference text]. 
+[Arbitrary case-insensitive reference text]: https://www.example.com "Optional Title"
+![Alt text for the image][link to image]
+[GitHub Homepage](https://github.com "Visit GitHub") 
+## My Project
+
+This project does awesome things! 
+
+For more information, see the [project website](https://www.myprojectwebsite.com).
+
+## Contributing
+
+Found a bug? Please open an issue on the [issues page](https://github.com/username/repo/issues).
+
 
 <h2>Requirements</h2>
 
