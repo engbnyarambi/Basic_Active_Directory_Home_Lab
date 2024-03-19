@@ -9,20 +9,9 @@ This project was heavily inspired by the comprehensive YouTube tutorial by Josh 
 Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
 [Link Text](https://www.example.com)
 
-For more information, visit the [GitHub documentation website](https://docs.github.com).
-This is an [example link][Arbitrary case-insensitive reference text]. 
-[Arbitrary case-insensitive reference text]: https://www.example.com "Optional Title"
-![Alt text for the image][link to image]
-[GitHub Homepage](https://github.com "Visit GitHub") 
-## My Project
+For more information, view their tutorial here [GitHub documentation website](https://docs.github.com "Project").
 
-This project does awesome things! 
 
-For more information, see the [project website](https://www.myprojectwebsite.com).
-
-## Contributing
-
-Found a bug? Please open an issue on the [issues page](https://github.com/username/repo/issues).
 
 
 <h2>Requirements</h2>
