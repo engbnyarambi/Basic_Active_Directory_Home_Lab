@@ -6,6 +6,9 @@
 In this lab we are going to walk through how to create a basic Active Directory Home Lab environment using Oracle VirtualBox. Configuring and running this lab will definitely help develop understanding of how Active Directory and Windows Networking works. 
 <br />
 
+<h2>Credits</h2>
+This project was heavily inspired by the comprehensive YouTube tutorial "How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell" by [the channel name] ([https://www.youtube.com/watch?v=MHsI8hJmggI]). Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
+
 <h2>Requirements</h2>
 
 - Oracle VirtualBox
