@@ -9,6 +9,7 @@ This project was heavily inspired by the comprehensive YouTube tutorial by Josh 
 Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
 
 For more information, check out their YouTube Channel and GitHub:
+
 YouTube: [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=MHsI8hJmggI "Basic Active Directory Home Lab")
 GitHub: [Josh Madakor](https://github.com/joshmadakor1).
 
