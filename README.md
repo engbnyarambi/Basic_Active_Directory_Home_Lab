@@ -5,7 +5,7 @@ In this lab we are going to walk through how to create a basic Active Directory 
 <br />
 
 <h2>Credits</h2>
-This project was heavily inspired by the comprehensive YouTube tutorial by Josh Madakor:  "How to Setup a Basic Home Lab Running Active Directory" ([https://www.youtube.com/watch?v=MHsI8hJmggI]). 
+This project was heavily inspired by the comprehensive YouTube tutorial by Josh Madakor: [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=MHsI8hJmggI). 
 Their clear explanations and step-by-step guidance were instrumental in the development of this project.<br />
 [Link Text](https://www.example.com)
 
