@@ -6,7 +6,12 @@
 In this lab we are going to walk through how to create a basic Active Directory Home Lab environment using Oracle VirtualBox. Configuring and running this lab will definitely help develop understanding of how Active Directory and Windows Networking works. 
 <br />
 
-<h2>Materials</h2>
+<h2>Requirements</h2>
+- Oracle VirtualBox
+- Windows Server 2019
+- Windows 10
+- Powershell Script
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
