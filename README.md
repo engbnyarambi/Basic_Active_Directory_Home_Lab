@@ -1,12 +1,12 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Basic Active Directory Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab we are going to walk through how to create an Active Directory Home Lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop understanding of how Active Directory and Windows Networking works. 
+In this lab we are going to walk through how to create a basic Active Directory Home Lab environment using Oracle VirtualBox. Configuring and running this lab will definitely help develop understanding of how Active Directory and Windows Networking works. 
 <br />
 
-
+<h2>Materials</h2>
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
