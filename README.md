@@ -7,6 +7,7 @@ In this lab we are going to walk through how to create a basic Active Directory 
 <br />
 
 <h2>Requirements</h2>
+
 - Oracle VirtualBox
 - Windows Server 2019
 - Windows 10
