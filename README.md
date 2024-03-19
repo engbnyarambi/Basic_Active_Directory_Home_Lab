@@ -13,11 +13,7 @@ For more information, check out their YouTube Channel and GitHub:
 - GitHub: [Josh Madakor](https://github.com/joshmadakor1).
 
 
-
-
-
-
-<h2>Requirements</h2>
+<h2>Hardware and Software Requirements</h2>
 
 - Oracle VirtualBox
 - Windows Server 2019
